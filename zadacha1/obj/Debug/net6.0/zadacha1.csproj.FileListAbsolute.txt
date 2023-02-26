@@ -1,0 +1,15 @@
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/bin/Debug/net6.0/zadacha1
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/bin/Debug/net6.0/zadacha1.deps.json
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/bin/Debug/net6.0/zadacha1.runtimeconfig.json
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/bin/Debug/net6.0/zadacha1.dll
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/bin/Debug/net6.0/zadacha1.pdb
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/zadacha1.csproj.AssemblyReference.cache
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/zadacha1.AssemblyInfoInputs.cache
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/zadacha1.AssemblyInfo.cs
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/zadacha1.csproj.CoreCompileInputs.cache
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/zadacha1.dll
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/refint/zadacha1.dll
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/zadacha1.pdb
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/zadacha1.genruntimeconfig.cache
+/Users/temirlan/Desktop/GeekBrains/3. C#/sem9/zadacha1/obj/Debug/net6.0/ref/zadacha1.dll
